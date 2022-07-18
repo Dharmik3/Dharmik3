@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
+# <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
 
-# 💫 About Me:
-🔭 I’m currently working on Covid-19 Testing Management System<br>🌱 I’m currently learning React<br>🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>🤖 Interest: watching cricket match, listening song
+## 💫 About Me:
+### 🔭 I’m currently working on Covid-19 Testing Management System<br>🌱 I’m currently learning React<br>🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>🤖 Interest: watching cricket match, listening song ###
 
 
 ## 🌐 Socials:
