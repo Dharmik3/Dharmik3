@@ -7,7 +7,10 @@
 
 ## 💫 About Me:
 #### 🔭 I’m currently working on Covid-19 Testing Management System
-####🌱 I’m currently learning React<br>🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>📫 How to reach me **dharmikpatel.pepalla@gmail.com** <br>🤖 Interest: watching cricket match, listening song 
+
+####🌱 I’m currently learning React
+
+####🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>📫 How to reach me **dharmikpatel.pepalla@gmail.com** <br>🤖 Interest: watching cricket match, listening song 
 
 ## 🌐 Connect with me:
 <p align="left">
