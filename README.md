@@ -6,11 +6,16 @@
 # <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
 
 ## 💫 About Me:
-### 🔭 I’m currently working on Covid-19 Testing Management System<br>🌱 I’m currently learning React<br>🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>🤖 Interest: watching cricket match, listening song ###
+#### 🔭 I’m currently working on Covid-19 Testing Management System<br>🌱 I’m currently learning React<br>🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar <br>❓ Ask me about anything related to web development <br>📫 How to reach me **dharmikpatel.pepalla@gmail.com** <br>🤖 Interest: watching cricket match, listening song ####
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dharmik3) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dharmikS_patel) 
+## 🌐 Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/Dharmik3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/dharmikS_patel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
 
 
 ## 💻 Tech Stack:
