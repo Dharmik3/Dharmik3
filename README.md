@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Dharmik3/guess-num.io/blob/main/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/Dharmik3/guess-num.io/blob/main/greetings.gif" align="center" style="width: auto;height:auto"  />
 </div>  
   
 
