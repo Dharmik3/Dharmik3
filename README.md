@@ -37,9 +37,7 @@
 ---
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=Dharmik3&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github-visitor-counter-pro.vercel.app)
-![](https://komarev.com/ghpvc/?username=Dharmik3)
-  [![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://github-visitor-counter-pro.vercel.app)
+  [![](https://visitcount.itsvg.in/api?id=Dharmik3&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
   
 </div>
 
