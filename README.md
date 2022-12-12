@@ -6,7 +6,7 @@
 # <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
 
 ## 💫 About Me:
-#### 🔭 I’m currently working on Covid-19 Testing Management System
+#### 🔭 I’m currently working on Full stack food delivery app
 
 #### 🌱 I’m currently learning React
 
