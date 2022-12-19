@@ -8,7 +8,7 @@
 ## 💫 About Me:
 #### 🔭 I’m currently working on Full stack food delivery app
 
-#### 🌱 I’m currently learning React
+#### 🌱 I’m currently learning React & Firebase
 
 #### 🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar 
 #### ❓ Ask me about anything related to web development 
