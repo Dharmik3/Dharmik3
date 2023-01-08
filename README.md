@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Dharmik3/guess-num.io/blob/main/greetings.gif" align="center" style="width: auto;height:auto"  />
+<img src="https://github.com/Dharmik3/guess-num.io/blob/main/greetings.gif" align="center" style="width:500px;height:auto"  />
 </div>  
   
 
@@ -7,13 +7,9 @@
 
 ## 💫 About Me:
 #### 🔭 I’m currently working on Full stack food delivery app
-
 #### 🌱 I’m currently learning React & Firebase
-
 #### 🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar 
-#### ❓ Ask me about anything related to web development 
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
-#### 🤖 Interest: watching cricket match, listening song 
 
 ## 🌐 Connect with me:
 <p align="left">
@@ -29,15 +25,15 @@
 
 
 ## 📊 GitHub Stats:
-  
-![](https://github-readme-stats.vercel.app/api?username=Dharmik3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dharmik3&theme=tokyonight&hide_border=false)<br/>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik3&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 
+<div align="center">
+  
+| ![Dharmik GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dharmik3&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik3&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
+| --- | --- |
+| ![Krishnan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmik3&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
+  
+</div>
 <div align="center">
   
   [![](https://visitcount.itsvg.in/api?id=Dharmik3&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
