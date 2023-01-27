@@ -6,7 +6,7 @@
 # <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
 
 ## 💫 About Me:
-#### 🔭 I’m currently working on Full stack food delivery app
+#### 🔭 I’m currently working on social media app
 #### 🌱 I’m currently learning React & Firebase
 #### 🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar 
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
