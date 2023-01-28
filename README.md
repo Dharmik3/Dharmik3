@@ -32,7 +32,7 @@
   
 | ![Dharmik GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dharmik3&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik3&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
 | --- | --- |
-| ![Krishnan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmik3&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
+| ![Dharmik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmik3&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
   
 </div>
 <div align="center">
