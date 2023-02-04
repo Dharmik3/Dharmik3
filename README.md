@@ -7,7 +7,7 @@
 
 ## 💫 About Me:
 #### 🔭 I’m currently working on citylight restaurant app
-#### 🌱 I’m currently learning React & Firebase
+#### 🌱 I’m currently learning React & Node
 #### 🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar 
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
 
