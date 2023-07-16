@@ -8,7 +8,7 @@
 ## 💫 About Me:
 #### 🔭 I’m currently working on space voice meetup app
 #### 🌱 I’m currently learning React & Node
-#### 🎓 I'm pursuing B.E - IT (pre-final year) from GCET , v.v.nagar 
+#### 🎓 I'm pursuing B.E - IT (final year) from GCET , v.v.nagar 
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
 
 ## 🌐 Connect with me:
