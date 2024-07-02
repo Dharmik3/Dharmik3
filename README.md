@@ -3,12 +3,12 @@
 </div>  
   
 
-# <div align="center">I'm Dharmik, a web developer and student 🚀</div>  
+# <div align="center">I'm Dharmik, a software developer and learner 🚀</div>  
 
 ## 💫 About Me:
-#### 🔭 I’m currently working on space voice meetup app
-#### 🌱 I’m currently learning React & Node
-#### 🎓 I'm pursuing B.E - IT (final year) from GCET , v.v.nagar 
+#### 🔭 I’m currently working on Account Software
+#### 🌱 I’m a fullstack MERN developer
+#### 🎓 I recently graduated from GCET , v.v.nagar in B.E (IT)
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
 
 ## 🌐 Connect with me:
