@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Dharmik, a software developer and learner 🚀</div>  
+# <div align="center">I'm Dharmik, a Software Developer and Tech Enthusiast 🚀</div>  
 
 ## 💫 About Me:
 #### 🔭 I’m currently working on Account Software
