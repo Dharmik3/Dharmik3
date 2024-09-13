@@ -8,7 +8,6 @@
 ## 💫 About Me:
 #### 🔭 I’m currently working on Account Software
 #### 🌱 I’m a fullstack MERN developer
-#### 🎓 I recently graduated from GCET , v.v.nagar in B.E (IT)
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
 
 ## 🌐 Connect with me:
