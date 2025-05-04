@@ -6,7 +6,6 @@
 # <div align="center">I'm Dharmik, Software Developer, Tech Enthusiast and  Quick Learner 🚀</div>  
 
 ## 💫 About Me:
-#### 🔭 I’m currently working on Account Software
 #### 🌱 I’m a fullstack MERN developer
 #### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
 
