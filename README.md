@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const dharmik = {
@@ -40,7 +40,7 @@ const dharmik = {
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 🏗️ **Production-Ready Applications**
 - ✅ E-commerce platforms built to handle real-world scale and performance
@@ -54,7 +54,7 @@ const dharmik = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 <div align="center">
   
 ### **Frontend Excellence**
