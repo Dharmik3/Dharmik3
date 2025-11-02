@@ -1,41 +1,135 @@
-<div align="center">
-<img src="https://github.com/Dharmik3/guess-num.io/blob/main/greetings.gif" align="center" style="width:500px;height:auto"  />
-</div>  
-  
 
-# <div align="center">I'm Dharmik, Software Developer, Tech Enthusiast and  Quick Learner 🚀</div>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dharmik;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%26+Quick+Learner;Building+Production+Systems" alt="Typing SVG" />
+</h1>
 
-## 💫 About Me:
-#### 🌱 I’m a fullstack developer
-#### 📫 How to reach me **dharmikpatel.pepalla@gmail.com** 
+<p align="center" style="margin-top:-10px;">
+  <i>Wanted to launch a quick MVP? Need a production-grade application? — <b>Let's Connect 🚀</b></i>
+</p>
 
-## 🌐 Connect with me:
-<p align="left">
+<br/>
 
-<a href = "https://www.linkedin.com/in/Dharmik3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/dharmikS_patel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/Dharmik3/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> 
+  <a href="https://twitter.com/dharmikS_patel" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /> </a> <a href="mailto:dharmikpatel.pepalla@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> 
+  <a href="https://dharmik3.github.io/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> 
 </p>
 
 
-## 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%2320232a.svg?style=for-the-badge&logo=remix&logoColor=%2361DAFB) ![Sanity](https://img.shields.io/badge/sanity-%23F05033.svg?style=for-the-badge&logo=sanity&logoColor=white)
 
-
-
-## 📊 GitHub Stats:
 ---
 
+## 🚀 About Me
+
+```typescript
+const dharmik = {
+    role: "Full Stack Developer",
+    focus: ["Scalable Systems", "Modern Web Apps", "Cloud Architecture"],
+    experience: [
+        "Production E-commerce Platforms",
+        "GIS & Map-based Applications",
+        "AI-driven Chatbots & Agents",
+        "Data-Oriented Solutions",
+        "Finance Applications",
+        "Chrome Extensions"
+    ],
+    currentlyWorking: "Building next-gen web applications",
+    philosophy: "Clean code, scalable architecture, user-first design"
+};
+```
+
+---
+
+## 💼 Professional Experience
+
+🏗️ **Production-Ready Applications**
+- ✅ E-commerce platforms built to handle real-world scale and performance
+- 🗺️ GIS-based and map-integrated interactive solutions
+- 📊 Data-driven and analytics-focused web applications
+- 🤖 AI-integrated solutions including GenAI chatbots and custom AI agents for E-commerce personalization
+- 💰 Financial systems with precision-driven workflows
+- 🔐 Secure, scalable, role-based authentication implementations
+- 🔌 Chrome extensions enhancing productivity and user experience
+- 🚀 100% top-notch delivery with proven client satisfaction
+
+---
+
+## 🛠️ Tech Arsenal
 <div align="center">
   
-| ![Dharmik GitHub Statistics](https://github-readme-stats.vercel.app/api?username=dharmik3&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik3&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
-| --- | --- |
-| ![Dharmik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharmik3&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
-  
-</div>
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Dharmik3&label=Profile%20Views&color=0&icon=4&pretty=true)](https://github-visitor-counter-pro.vercel.app)
-  
+### **Frontend Excellence**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+<img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=remix" height="40" alt="Remix" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=materialui" height="40" alt="Material UI" />
+<img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="40" alt="React Query" />
+<img src="https://cdn.simpleicons.org/antdesign/0170FE" height="40" alt="Ant Design" />
+<img src="https://cdn.simpleicons.org/axios/5A29E4" height="40" alt="Axios" />
+<img src="https://cdn.simpleicons.org/shadcnui/fff" height="40" alt="shadcn UI" />
+</p>
+
+### **Backend Powerhouse**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" />
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+<img src="https://cdn.simpleicons.org/stripe/00A2E8" height="40" alt="Stripe" />
+<img src="https://cdn.simpleicons.org/strapi/4945FF" height="40" alt="Strapi" />
+</p>
+
+### **AI & Advanced Tools**
+<p align="center">
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="40" alt="Gemini AI" />
+<img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude AI" />
+</p>
+
+### **Databases & Caching**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+<img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+</p>
+
+### **Cloud & DevOps**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+<img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="Cloudflare" />
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+<img src="https://cdn.simpleicons.org/digitalocean/0080FF" height="40" alt="Digital Ocean" />
+</p>
+
+### **Tools & Workflow**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+<img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+</p>
 </div>
 
+
+---
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=72" />
+</div>
+
+<div align="center">
+  <b>⭐️ From <a href="https://github.com/dharmik3">Dharmik3</a> | Let's build something amazing together!</b>
+</div>
